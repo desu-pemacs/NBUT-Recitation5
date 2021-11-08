@@ -216,7 +216,7 @@ Note that you do not need to calculate <span style="font-family: 'times new roma
 
 ## Cloning the Recitation
 
-Click on the link in Blackboard or this <a href="">link</a> to accept the assignment on Github classroom.  Once the repository is created, copy the link by clicking on the Clone button in your Github repository.
+Click on the link in Blackboard or this <a href="https://classroom.github.com/a/PVuaxwtp">link</a> to accept the assignment on Github classroom.  Once the repository is created, copy the link by clicking on the Clone button in your Github repository.
 
 Do the following steps:
 
